@@ -9,6 +9,7 @@ class ChattyStudent < Student
     super
       puts "Pick me!" * 10\n
     end
+  end
 end
 
 # /n

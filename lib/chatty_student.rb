@@ -12,4 +12,3 @@ class ChattyStudent < Student
   end
 end
 
-# /n

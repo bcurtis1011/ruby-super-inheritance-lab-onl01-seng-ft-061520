@@ -11,6 +11,7 @@ class ChattyStudent < Student
       until s == 10
         puts "Pick me!"
         s += 1
+      end
   end
 end
 

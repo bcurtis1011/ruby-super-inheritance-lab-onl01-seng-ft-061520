@@ -9,6 +9,7 @@ class ChattyStudent < Student
     super
       s = 0
       until s == 10
+      
   end
 end
 

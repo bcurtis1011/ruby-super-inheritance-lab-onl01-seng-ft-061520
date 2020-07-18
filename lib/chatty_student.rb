@@ -9,7 +9,8 @@ class ChattyStudent < Student
     super
       s = 0
       until s == 10
-      
+        puts "Pick me!"
+        s
   end
 end
 
